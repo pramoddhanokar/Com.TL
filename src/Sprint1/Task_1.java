@@ -2,7 +2,7 @@ package Sprint1;
 
 public class Task_1 {
     public static void main(String[] args) {
-
+ M1();
     }
 
     public static void M1(){
@@ -17,7 +17,7 @@ public class Task_1 {
     	if(n%2==0) {
     		count = count + 1 ;
     	}
-    	
+    }
     	if(count == 0) {
     		System.out.println("Prime");
     	}
@@ -31,4 +31,4 @@ public class Task_1 {
 
 
     }
-}
+
